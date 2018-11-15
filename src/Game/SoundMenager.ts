@@ -1,0 +1,4 @@
+class SoundMenager {
+	public constructor() {
+	}
+}

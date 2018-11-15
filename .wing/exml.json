@@ -1,0 +1,17 @@
+{
+  "global": {
+    "globalBackgroundAlpha": 100,
+    "globalBackgroundX": 0,
+    "globalBackgroundY": 0,
+    "globalBackgroundWidth": -1,
+    "globalBackgroundHeight": -1,
+    "globalBackgroundColor": "",
+    "globalBackgroundImage": ""
+  },
+  "166ab74e5ef": {
+    "backgroundType": "user",
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  }
+}

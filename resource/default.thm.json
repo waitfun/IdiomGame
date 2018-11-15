@@ -1,0 +1,12 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skin/LevelIconSkin.exml",
+		"resource/skin/SceneBeginSkin.exml",
+		"resource/skin/WordSkin.exml",
+		"resource/skin/SceneGameSkin.exml",
+		"resource/skin/SceneLevelsSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
